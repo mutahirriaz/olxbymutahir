@@ -1,0 +1,38 @@
+{
+    "Oppo f9 pro":{
+        "id":1,
+        "name":"Oppo f9 pro",
+        "price":"30,000",
+        "brand":"Oppo",
+        "category":"Mobile-phones",
+        "date":"19 october",
+        "imageURL":"https://apollo-singapore.akamaized.net/v1/files/1q860bc840vn3-PK/image;s=1080x1080"
+    },
+    "Iphone xsmax ":{
+        "id":2,
+        "name":"Iphone xsmax 64 gb",
+        "price":"30,000",
+        "brand":"Apple",
+        "category":"Mobile-phones",
+        "date":"10 September",
+        "imageURL":"https://apollo-singapore.akamaized.net/v1/files/bi1oubq1qj9n-PK/image;s=1080x1080"
+    },
+    "Huawei P20 ":{
+        "id":3,
+        "name":"Huawei P20 ",
+        "price":"26,000",
+        "brand":"Huawei",
+        "category":"Mobile-phones",
+        "date":"22 July",
+        "imageURL":"https://apollo-singapore.akamaized.net/v1/files/6t2c54gv2q92-PK/image;s=1080x1080"
+    },
+    "Huawei P30 ":{
+        "id":4,
+        "name":"Huawei P30 ",
+        "price":"22,500",
+        "brand":"Huawei",
+        "category":"Mobile-phones",
+        "date":"14 october",
+        "imageURL":"https://apollo-singapore.akamaized.net/v1/files/ucnp2unc3v5o-PK/image;s=1080x1080"
+}
+}
